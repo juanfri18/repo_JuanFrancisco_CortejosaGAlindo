@@ -21,7 +21,7 @@ Se puede utilizar en los siguientes lugares:
 [enlace a otro fichero de markdown](https://github.com/juanfri18/repo_JuanFrancisco_CortejosaGAlindo/blob/main/markdon.md)
 
 
-![/home/juanfri/Descargas/imagen.jpeg](imagen.jpg)
+![imagen de paisaje](https://fondosmil.com/fondo/11112.jpg)
 
 | Syntax | Description |
 | ----------- | ----------- |
