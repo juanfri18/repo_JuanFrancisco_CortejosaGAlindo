@@ -17,8 +17,8 @@ Se puede utilizar en los siguientes lugares:
 - Contenido dinámico
 - Bloques de contenido en los artículos del centro de ayuda
 
-[link de donde saco la informacion](https://computernewage.com/2013/05/14/como-leer-archivos-de-texto-desde-la-terminal-de-linux/#touch)
-[enlace a otro fichero de markdown](https://github.com/juanfri18/repo_JuanFrancisco_CortejosaGAlindo/blob/main/markdon.md)
+### [link de donde saco la informacion](https://computernewage.com/2013/05/14/como-leer-archivos-de-texto-desde-la-terminal-de-linux/#touch)
+### [enlace a otro fichero de markdown](https://github.com/juanfri18/repo_JuanFrancisco_CortejosaGAlindo/blob/main/markdon.md)
 
 
 ![imagen de paisaje](https://fondosmil.com/fondo/11112.jpg)
